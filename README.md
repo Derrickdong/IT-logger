@@ -1,3 +1,7 @@
+![Image of the project]
+(https://github.com/Derrickdong/IT-logger/blob/master/Capture.PNG)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
