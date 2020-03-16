@@ -1,14 +1,16 @@
 ![Image of the project](https://github.com/Derrickdong/IT-logger/blob/master/Capture.PNG)
 
-## To Start
-You have to install concurrently (You could use 'npm install -g concurrently' to install it globally)
-And then type 'npm run dev' to start the application.
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm run dev`
+Run the application
+
+You have to install concurrently (You could use 'npm install -g concurrently' to install it globally)
+And then type 'npm run dev' to start the application.
 
 ### `npm start`
 
