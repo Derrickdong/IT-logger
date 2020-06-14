@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm run dev`
 Run the application
 
-You have to install concurrently and json-server (You could use 'npm install' to install all the dependencies in this project)
+You have to install concurrently, json-server and other dependencies (You could use 'npm install' to install all the dependencies in this project)
 And then type 'npm run dev' in your terminal to start the application.
 
 ### `npm start`
